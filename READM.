@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Goat Farming Tips</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 20px;
+            background: white;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 20px;
+            background-color: #333;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Goat Farming Tips</h1>
+    <p>Your guide to successful goat farming</p>
+</header>
+
+<nav>
+    <a href="#introduction">Introduction</a>
+    <a href="#tips">Tips</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<main>
+    <section id="introduction">
+        <h2>Introduction to Goat Farming</h2>
+        <p>Goat farming is a rewarding agricultural venture that provides milk, meat, and fiber. With proper care and management, it can be both profitable and sustainable.</p>
+    </section>
+
+    <section id="tips">
+        <h2>Essential Goat Farming Tips</h2>
+        <ul>
+            <li>Choose the right breed for your farming goals.</li>
+            <li>Provide a clean and secure shelter for your goats.</li>
+            <li>Ensure a balanced diet with quality feed and supplements.</li>
+            <li>Maintain proper hygiene to prevent diseases.</li>
+            <li>Regularly consult a veterinarian for health check-ups.</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions or need assistance, please email us at <a href="mailto:info@goatfarming.com">info@goatfarming.com</a>.</p>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Goat Farming Tips. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
